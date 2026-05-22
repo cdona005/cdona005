@@ -1,6 +1,6 @@
 # Hi, I'm Cody
 
-I'm a Computer Science student graduating in May and a U.S. Navy nuke veteran transitioning into software engineering.  
+I'm a Computer Science professional with a B.S in Computer Science from Old Dominion University and am starting my Masters of Science in Computer Science from Colorado School of Mines.  U.S. Navy nuke veteran transitioning into software engineering.  
 I focus on Java and full-stack development, and I enjoy building practical systems that solve real problems.
 
 ## Skills
